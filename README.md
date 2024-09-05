@@ -1,1 +1,1 @@
-sgr24.github.io
+https://sgr24.github.io
